@@ -1,4 +1,4 @@
-CppCon 2023 Presentation Materials
+C++Online 2024 Presentation Materials
 ==================================
 
 https://github.com/CppOnlineConference/CppOnline2024 is the canonical location for presentations
