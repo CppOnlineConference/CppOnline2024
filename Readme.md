@@ -20,6 +20,7 @@ and code from [CppOnline 2024](http://cpponline.uk).
 - [Improving safety with quantities and units library](https://github.com/train-it-eu/conf-slides/blob/master/2024.02%20-%20C%2B%2B%20Online/Improving%20our%20safety%20with%20a%20quantities%20and%20units%20library.pdf) by Mateusz Pusz
 - [Keynote: The Bytes Before the Types](/Presentations/b2b-tooling-cpponline-v3-Kevin-Carpenter.pdf) by JF Bastien
 - [Lessons Learned from Optimising a High Performance Library](https://github.com/drowaudio/presentations/blob/master/Cpp%20Online%202024%20-%20Lessons%20Learned%20from%20Optimising%20a%20High%20Performance%20Library/Lessons%20Learned%20from%20Optimising%20a%20High%20Performance%20Library.pdf) by Dave Rowland
+- [The Bytes Before The Types](/Presentations/The%20Bytes%20Before%20the%20Types%20-%20Unveiling%20Uninitialized%20Uses.pdf) by JF Bastien
 - [The Evolution of Functional Programming in C++](/Presentations/The-Evolution-of-Functional-Programming-in-CPP.pdf) by Abel Sen
 - [The New Library On The Block](https://www.jonathanmueller.dev/talk/think-cell-library/) by Jonathan Müller
 - [The Strategy Design Pattern](/Presentations/Roth_Michaels_-_Templates_Made_Easy_C_Online.pdf) by Mike Shah
